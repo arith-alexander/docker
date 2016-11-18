@@ -24,15 +24,22 @@
         <script src="/src/LAppLive2DManager.js"></script>
         <script src="/src/SampleApp1.js"></script>
 
+        <script src="/unslider-master/src/js/unslider.js"></script>
+        <script src="/slider.js"></script>
+        <link rel="stylesheet" href="/unslider-master/src/scss/unslider.css">
+
     </head>
 
     <body onload="sampleApp1()">
+
+        <?php include("slider.html"); ?>
+
         <div id="canvasContainer"><canvas id="glcanvas" style="width:100%" width="1000" height="600" style="border:dashed 1px #CCC"></canvas></div>
         <div id="myconsole" style="color:#000">---- Log ----</div>
 
         <!-- modal menu -->
         <div id="modal-content">
-              <a id="modal-close"　class="button-link">✖︎</a>
+              <a id="modal-close" class="button-link">X</a>
               <table class="modal-table">
         	        <tr>
                     <td><a href="menu1-1"><img src="" alt="1-1"></a></td>
