@@ -22,9 +22,14 @@
         <script src="/src/LAppLive2DManager.js"></script>
         <script src="/src/SampleApp1.js"></script>
 
+        <script src="/unslider-master/src/js/unslider.js"></script>
+        <script src="/slider.js"></script>
+        <link rel="stylesheet" href="/unslider-master/src/scss/unslider.css">
+
     </head>
 
     <body onload="sampleApp1()">
+        <?php include("slider.html"); ?>
 
         <div id="canvasContainer"><canvas id="glcanvas" style="width:100%" width="1000" height="600" style="border:dashed 1px #CCC"></canvas></div>
 
