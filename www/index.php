@@ -22,23 +22,16 @@
         <script src="/src/LAppLive2DManager.js"></script>
         <script src="/src/SampleApp1.js"></script>
 
-        <script>
-            
-        </script>
-
     </head>
 
     <body onload="sampleApp1()">
 
-        <div>
-            <canvas id="glcanvas" style="width:100%" width="1000" height="470"
-                style="border:dashed 1px #CCC">
-            </canvas>
-        </div>
+        <div id="canvasContainer"><canvas id="glcanvas" style="width:100%" width="1000" height="600" style="border:dashed 1px #CCC"></canvas></div>
 
         <div id="myconsole" style="color:#000">---- Log ----</div>
 
-            <div class="footer">
+
+        <div class="footer">
             <a href="LESSON" >
                 <img src="" alt="LESSON" style="margin-left:20%">
             </a>
