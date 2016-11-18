@@ -49,7 +49,7 @@
               </tr>
         </table>
     </div>
-    <p><a id="modal-open" class="button-link" style="right:2%; top:2%;position:absolute">MENU</a></p>
+    <p><a id="modal-open" class="button-link" style="right:2%; top:2%;position:absolute"><img src="" alt="MENU"></a></p>
     <!-- modal menu -->
 
     <body onload="sampleApp1()">
