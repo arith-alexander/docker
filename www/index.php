@@ -64,16 +64,17 @@
         <!-- modal menu -->
 
         <div class="footer">
-            <a href="LESSON" >
-                <img src="resource/button/button_lesson.png" alt="LESSON" width="32%" height="32%" style="margin-left:1%">
+
+            <a href="LESSON" style="text-decoration:none">
+                <img src="resource/button/button_lesson.png" alt="LESSON" width="20%" height="20%" style="margin-left:15%">
             </a>
 
-            <a href="STORY">
-                <img src="resource/button/button_story.png" alt="STORY" width="32%" height="32%">
+            <a href="STORY" style="text-decoration:none">
+                <img src="resource/button/button_story.png" alt="STORY" width="20%" height="20%" style="margin-left:3%">
             </a>
 
-            <a href="GACHA">
-                <img src="resource/button/button_gacha.png" alt="GACHA" width="32%" height="32%">
+            <a href="GACHA" style="text-decoration:none">
+                <img src="resource/button/button_gacha.png" alt="GACHA" width="20%" height="20%" style="margin-left:3%">
             </a>
         </div>
     </body>
