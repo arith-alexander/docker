@@ -42,36 +42,39 @@
               <a id="modal-close" class="button-link">X</a>
               <table class="modal-table">
         	        <tr>
-                    <td><a href="menu1-1"><img src="" alt="1-1"></a></td>
-                    <td><a href="menu1-2"><img src="" alt="1-2"></a></td>
-                    <td><a href="menu1-3"><img src="" alt="1-3"></a></td>
+                    <td><a href="menu_01"><img src="resource/menu/menu_01.png" alt="menu_01" width="75%" height="75%"></a></td>
+                    <td><a href="menu_02"><img src="resource/menu/menu_02.png" alt="menu_02" width="75%" height="75%"></a></td>
+                    <td><a href="menu_03"><img src="resource/menu/menu_03.png" alt="menu_03" width="75%" height="75%"></a></td>
                   </tr>
                   <tr>
-                    <td><a href="menu2-1"><img src="" alt="2-1"></a></td>
-                    <td><a href="menu2-2"><img src="" alt="2-2"></a></td>
-                    <td><a href="menu2-3"><img src="" alt="2-3"></a></td>
+                    <td><a href="menu_04"><img src="resource/menu/menu_04.png" alt="menu_04" width="75%" height="75%"></a></td>
+                    <td><a href="menu_05"><img src="resource/menu/menu_05.png" alt="menu_05" width="75%" height="75%"></a></td>
+                    <td><a href="menu_06"><img src="resource/menu/menu_06.png" alt="menu_06" width="75%" height="75%"></a></td>
                   </tr>
                   <tr>
-                    <td><a href="menu3-1"><img src="" alt="3-1"></a></td>
-                    <td><a href="menu3-2"><img src="" alt="3-2"></a></td>
-                    <td><a href="menu3-3"><img src="" alt="3-3"></a></td>
+                    <td><a href="menu_07"><img src="resource/menu/menu_07.png" alt="menu_07" width="75%" height="75%"></a></td>
+                    <td><a href="menu_08"><img src="resource/menu/menu_08.png" alt="menu_08" width="75%" height="75%"></a></td>
+                    <td><a href="menu_09"><img src="resource/menu/menu_09.png" alt="menu_09" width="75%" height="75%"></a></td>
                   </tr>
             </table>
         </div>
-        <p><a id="modal-open" class="button-link" style="right:2%; top:2%;position:absolute"><img src="" alt="MENU"></a></p>
+        <p><a id="modal-open" class="button-link" style="right:2%; top:2%;position:absolute">
+            <img src="resource/button/button_menu.png" alt="MENU" width="75%" height="75%">
+        </a></p>
         <!-- modal menu -->
 
         <div class="footer">
+
             <a href="LESSON" style="text-decoration:none">
-                <img src="resource/button_lesson.png" alt="LESSON" width="20%" height="20%" style="margin-left:15%">
+                <img src="resource/button/button_lesson.png" alt="LESSON" width="20%" height="20%" style="margin-left:15%">
             </a>
 
             <a href="STORY" style="text-decoration:none">
-                <img src="resource/button_story.png" alt="STORY" width="20%" height="20%" style="margin-left:3%">
+                <img src="resource/button/button_story.png" alt="STORY" width="20%" height="20%" style="margin-left:3%">
             </a>
 
             <a href="GACHA" style="text-decoration:none">
-                <img src="resource/button_gacha.png" alt="GACHA" width="20%" height="20%" style="margin-left:3%">
+                <img src="resource/button/button_gacha.png" alt="GACHA" width="20%" height="20%" style="margin-left:3%">
             </a>
         </div>
     </body>
