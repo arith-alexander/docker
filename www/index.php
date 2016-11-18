@@ -56,15 +56,15 @@
 
         <div class="footer">
             <a href="LESSON" >
-                <img src="" alt="LESSON" style="margin-left:20%">
+                <img src="resource/button_lesson.png" alt="LESSON" width="32%" height="32%" style="margin-left:1%">
             </a>
 
             <a href="STORY">
-                <img src="" alt="STORY" style="margin-left:20%">
+                <img src="resource/button_story.png" alt="STORY" width="32%" height="32%">
             </a>
 
             <a href="GACHA">
-                <img src="" alt="GACHA" style="margin-left:20%">
+                <img src="resource/button_gacha.png" alt="GACHA" width="32%" height="32%">
             </a>
         </div>
     </body>
