@@ -138,9 +138,7 @@ body {
 }
 
 .unslider {
-    background-color:green;
-    width:20%;
-    height:10%;
+    width:30%;
     position:absolute;
     top:0;
     margin-top:2% !important;
@@ -151,5 +149,17 @@ body {
 #canvasContainer{
     position:absolute;
     top:0;
+}
 
+.my-slider img {
+   width:90%;
+}
+
+.unslider-nav ol li {
+    border:2px solid #41d6d8 !important;
+    text-align:middle;
+}
+
+.unslider-nav ol li.unslider-active {
+    background:#41d6d8 !important;
 }
