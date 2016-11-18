@@ -21,13 +21,18 @@
         <script src="/src/LAppModel.js"></script>
         <script src="/src/LAppLive2DManager.js"></script>
         <script src="/src/SampleApp1.js"></script>
+
+        <script>
+            
+        </script>
+
     </head>
 
     <body onload="sampleApp1()">
 
 
         <div>
-            <canvas id="glcanvas" width="680" height="940"
+            <canvas id="glcanvas" style="width:100%" width="1000" height="470"
                 style="border:dashed 1px #CCC">
             </canvas>
         </div>
