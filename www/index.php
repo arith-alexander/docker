@@ -9,18 +9,18 @@
     </head>
 
     <body>
-      <div class="footer">
-        <a href="LESSON" >
-          <img src="" alt="LESSON" style="margin-left:20%">
-        </a>
+        <div class="footer">
+            <a href="LESSON" >
+                <img src="" alt="LESSON" style="margin-left:20%">
+            </a>
 
-        <a href="STORY">
-          <img src="" alt="STORY" style="margin-left:20%">
-        </a>
+            <a href="STORY">
+                <img src="" alt="STORY" style="margin-left:20%">
+            </a>
 
-        <a href="GACHA">
-          <img src="" alt="GACHA" style="margin-left:20%">
-        </a>
-      </div>
+            <a href="GACHA">
+                <img src="" alt="GACHA" style="margin-left:20%">
+            </a>
+        </div>
     </body>
 </html>
