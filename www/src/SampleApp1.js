@@ -316,9 +316,6 @@ function mouseEvent(e)
         
         lookFront();
         
-    } else if (e.type == "contextmenu") {
-        
-        changeModel();
     }
 
 }
