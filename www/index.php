@@ -30,7 +30,6 @@
 
     <body onload="sampleApp1()">
 
-
         <div>
             <canvas id="glcanvas" style="width:100%" width="1000" height="470"
                 style="border:dashed 1px #CCC">
@@ -38,6 +37,20 @@
         </div>
 
         <div id="myconsole" style="color:#000">---- Log ----</div>
+
+            <div class="footer">
+            <a href="LESSON" >
+                <img src="" alt="LESSON" style="margin-left:20%">
+            </a>
+
+            <a href="STORY">
+                <img src="" alt="STORY" style="margin-left:20%">
+            </a>
+
+            <a href="GACHA">
+                <img src="" alt="GACHA" style="margin-left:20%">
+            </a>
+        </div>
 
     </body>
 </html>
